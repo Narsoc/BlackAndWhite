@@ -1,2 +1,0 @@
-# BlackAndWhite
-BlackAndWhite
