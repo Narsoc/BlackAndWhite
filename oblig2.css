@@ -1,0 +1,65 @@
+
+*{
+padding: 0;
+margin: 0;
+}
+
+#overHeader {
+font-family: Darker Grotesque;
+font-size: 30px;
+color: white;
+padding-left: 5px;
+}
+
+#header {
+color: white;
+font-family: Fjalla One;
+font-size: 150px;
+padding-left: 5px;
+text-align: center;
+}
+
+body {
+background-color: black;
+color: white;
+}
+
+#blackbackground {
+padding-left: 150px;
+padding-right: 150px;
+}
+
+#whitebackground  {
+background-color: white;
+padding-left: 150px;
+padding-right: 150px;
+}
+
+#first-letter {
+font-family: League Gothic;
+font-size: 90px;
+float: left;
+padding-right: 10px;
+line-height: 1em;
+}
+
+#backgroundimg {
+background-image: url('/Users/Narthana/main/oblig2bilder/Dame.png');
+background-repeat: no-repeat;
+background-size: 100% 100%;
+height: 1506px;
+}
+
+#position1 {
+margin-top: 500px;
+color: black
+}
+
+#position2 {
+margin-top: 450px;
+color: black
+}
+
+#position1 a{
+color: black;
+}
